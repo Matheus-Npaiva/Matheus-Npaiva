@@ -74,7 +74,14 @@ Tenho grande interesse em migrar para a área de Ciência de Dados e Inteligênc
     style="padding-right: 10px;" 
     src="https://images.icon-icons.com/1156/PNG/512/1486565573-microsoft-office_81557.png" 
 />
-
+<img 
+    align="left" 
+    alt="Azure" 
+    title="Azure"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://swimburger.net/media/ppnn3pcl/azure.png" 
+/>
 
 
 
