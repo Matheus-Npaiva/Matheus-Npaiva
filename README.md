@@ -6,7 +6,22 @@ Olá, me chamo Matheus, tenho 23 anos e sou natural de Cuiabá-MT. Sou graduado 
 
 Tenho grande interesse em migrar para a área de Ciência de Dados e Inteligência Artificial. Nesse caminho, venho me dedicando ao estudo e ao desenvolvimento de modelos de machine learning em Python. Possuo um repositório com alguns modelos desenvolvidos em R, além de experiência com bancos de dados relacionais e não relacionais. Também domino diversos SGBDs."[Veja meu repositório em R aqui](https://rpubs.com/MatheusNP)"
 
-
+<p align="left">
+    <a href="https://wa.me/5565993544428">
+        <img 
+            alt="Zapzap" 
+            title="zap" 
+            src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        />
+    </a>
+    <a href="https://www.linkedin.com/in/matheus-nunes-668294200">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+    </a>
+</p>
 
 
 
