@@ -46,7 +46,7 @@ Tenho grande interesse em migrar para a área de Ciência de Dados e Inteligênc
     align="left" 
     alt="PowerBI" 
     title="PowerBI"
-    width="30px" 
+    width="50px" 
     style="padding-right: 10px;" 
     src="https://1000logos.net/wp-content/uploads/2022/08/Microsoft-Power-BI-Logo-2013.png" 
 />
@@ -56,7 +56,7 @@ Tenho grande interesse em migrar para a área de Ciência de Dados e Inteligênc
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://flyclipart.com/thumb2/size-icon-sql-server-290392.png" 
+    src="https://www.freeiconspng.com/uploads/sql-server-icon-png-29.png" 
 />
 <img 
     align="left" 
